@@ -1,1 +1,1 @@
-### A Repository which contains codes, blogs or problem texts.
+A Repository which contains codes, blogs or problem texts.
